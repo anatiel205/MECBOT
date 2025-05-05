@@ -1,4 +1,7 @@
-pyTelegramBotAPI
-requests
-pillow
-pytesseract
+python-telegram-bot==20.3
+python-dotenv
+requests==2.31.0
+beautifulsoup4==4.12.2
+pytesseract==0.3.10
+Pillow==10.0.0
+nest_asyncio==1.5.8
